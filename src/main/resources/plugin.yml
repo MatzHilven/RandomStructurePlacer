@@ -1,0 +1,5 @@
+name: Randomstructureplacer
+version: '${project.version}'
+main: me.matzhilven.randomstructureplacer.RandomStructurePlacer
+api-version: 1.16
+authors: [ MatzHilven ]

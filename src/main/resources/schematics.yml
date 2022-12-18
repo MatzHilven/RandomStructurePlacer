@@ -1,0 +1,23 @@
+world: world
+
+structures:
+  1:
+    name: "test.schem"
+    spawn:
+      type: region
+      region:
+        minX: 0
+        minY: 0
+        minZ: 0
+        maxX: 1000
+        maxY: 1000
+        maxZ: 1000
+      spawn:
+        x: 0
+        y: 0
+        z: 0
+    frequency:
+      min: 20
+      max: 60
+    active-time: 60 # seconds before despawn
+    max-instances: 2
